@@ -1,9 +1,9 @@
-## Sorry for a lack of Updates/Progress. Im currently taking a break because of Family-related issues
-
 ![GitHub all releases](https://img.shields.io/github/downloads/peterstrick/vivetool-gui/total)
 ![GitHub License](https://img.shields.io/github/license/peterstrick/vivetool-gui)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/peterstrick/vivetool-gui)
+[![](https://dcbadge.vercel.app/api/server/8vDFXEucp2?style=flat)](https://discord.gg/8vDFXEucp2)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=PeterStrick_ViVeTool-GUI&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=PeterStrick_ViVeTool-GUI)
+[![Translation](https://weblate.rawrr.cf/widgets/vivetool-gui/-/svg-badge.svg)](https://weblate.rawrr.cf/engage/vivetool-gui)
 
 # ViVeTool GUI <img src="/images/icons8-advertisement-page-96.png" alt="ViVeTool GUI Logo" width="32"/> 
 ### Windows Feature Control GUI based on ViVeTool
